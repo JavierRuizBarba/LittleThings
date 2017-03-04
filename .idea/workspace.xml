@@ -2,11 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6903ca75-b9bc-4ace-b93c-3e733991deea" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/LittleThings.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/Contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/Contact.html~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/README.md~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/about.html~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/bootstrap.css~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/font-awesome.min.css~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/style.css~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/FontAwesome.otf~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.eot~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.svg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.ttf~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.woff~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.eot~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.svg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.ttf~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.woff~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/about.jpg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/back.jpg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio01.png~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio02.png~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio03.png~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio04.png~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio05.png~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio06.png~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr01.jpg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr02.jpg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/work.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/work.jpg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/js/bootstrap.min.js~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/index.html~HEAD" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact.html" afterPath="$PROJECT_DIR$/Contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work.html" afterPath="$PROJECT_DIR$/work.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +90,8 @@
       <file leaf-file-name="work.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="163" column="24" lean-forward="false" selection-start-line="163" selection-start-column="24" selection-end-line="163" selection-end-column="24" />
+            <state relative-caret-position="93">
+              <caret line="155" column="36" lean-forward="false" selection-start-line="155" selection-start-column="36" selection-end-line="155" selection-end-column="36" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -50,8 +106,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,7 +130,7 @@
       <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="-2947">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -86,8 +142,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="103" column="24" lean-forward="false" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
+            <state relative-caret-position="310">
+              <caret line="100" column="20" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -302,7 +358,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10281000" />
+    <option name="totallyTimeSpent" value="10325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -413,6 +469,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12">
           <caret line="3" column="2527" lean-forward="true" selection-start-line="3" selection-start-column="2527" selection-end-line="3" selection-end-column="2527" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -442,10 +499,144 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="87" column="14" lean-forward="false" selection-start-line="87" selection-start-column="14" selection-end-line="92" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3883#3968#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="100" column="20" lean-forward="true" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="155" column="36" lean-forward="false" selection-start-line="155" selection-start-column="36" selection-end-line="155" selection-end-column="36" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="1122">
           <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="14" lean-forward="false" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="134" column="72" lean-forward="false" selection-start-line="134" selection-start-column="72" selection-end-line="134" selection-end-column="72" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3883#3968#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="61" lean-forward="false" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="3" column="2527" lean-forward="true" selection-start-line="3" selection-start-column="2527" selection-end-line="3" selection-end-column="2527" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="699" column="27" lean-forward="false" selection-start-line="699" selection-start-column="21" selection-end-line="699" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="421" column="22" lean-forward="false" selection-start-line="421" selection-start-column="22" selection-end-line="421" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2947">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -460,8 +651,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="163" column="24" lean-forward="false" selection-start-line="163" selection-start-column="24" selection-end-line="163" selection-end-column="24" />
+        <state relative-caret-position="93">
+          <caret line="155" column="36" lean-forward="false" selection-start-line="155" selection-start-column="36" selection-end-line="155" selection-end-column="36" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -486,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="103" column="24" lean-forward="false" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
+        <state relative-caret-position="310">
+          <caret line="100" column="20" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
           <folding />
         </state>
       </provider>
