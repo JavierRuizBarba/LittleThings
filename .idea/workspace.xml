@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6903ca75-b9bc-4ace-b93c-3e733991deea" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/LittleThings.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/Contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/Contact.html~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/README.md~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/about.html~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/bootstrap.css~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/font-awesome.min.css~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/css/style.css~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/FontAwesome.otf~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.eot~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.svg~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.ttf~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/fontawesome-webfont.woff~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.eot~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.svg~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.ttf~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/fonts/glyphicons-halflings-regular.woff~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/about.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/about.jpg~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/back.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/back.jpg~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio01.png~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio02.png~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio03.png~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio04.png~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio05.png~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/portfolio/folio06.png~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr01.jpg~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/pr02.jpg~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/work.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/img/work.jpg~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/assets/js/bootstrap.min.js~HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LittleThings-master/index.html~HEAD" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -142,8 +83,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="100" column="20" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+            <state relative-caret-position="136">
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -358,7 +299,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10325000" />
+    <option name="totallyTimeSpent" value="11163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -620,6 +561,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="421" column="22" lean-forward="false" selection-start-line="421" selection-start-column="22" selection-end-line="421" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -677,8 +619,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="100" column="20" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding />
         </state>
       </provider>
