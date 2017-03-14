@@ -62,23 +62,43 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 16px;
-
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
+    background-color: #fffff0;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #4a4a4a;
+    color: #9ebbc6;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 70px 70px 70px;
+  grid-gap: 10px;
+  background-color: #fffff0;
+  color: #fffff0;
 }
 
+.box {
+  background-color: #fffff0;
+  color: #fffff0;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+.img{
+	height: 75%;
+	width:75%;
+	max-width: 100px;
+	max-height: 100px;
+}
 
 .navbar-brand {
 	font-weight: 700;
 }
 
 .navbar-default .navbar-brand {
-	color: #1abc9c;
+	color: #ffffff;
 }
 
 .navbar-default {
@@ -87,21 +107,94 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #1abc9c;
+	color: #ffffff;
 	background-color: transparent;
-	border-bottom: 2px solid #1abc9c
+	border-bottom: transparent;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #1abc9c;
+	color: #ffffff;
 }
 
+.a {
+  color: #9ebbc6;
+
+}
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
 
+.wrap {
+   overflow: hidden;
+   margin: 10px;
+}
+.box {
+   float: left;
+   position: relative;
+   width: 20%;
+   padding-bottom: 20%;
+}
+.boxInner {
+   position: absolute;
+   left: 10px;
+   right: 10px;
+   top: 10px;
+   bottom: 10px;
+   overflow: hidden;
+}
+.boxInner img {
+   width: 100%;
+}
+.boxInner .titleBox {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   margin-bottom: -50px;
+   background: #000;
+   background: rgba(0, 0, 0, 0.5);
+   color: #FFF;
+   padding: 10px;
+   text-align: center;
+   -webkit-transition: all 0.3s ease-out;
+   -moz-transition: all 0.3s ease-out;
+   -o-transition: all 0.3s ease-out;
+   transition: all 0.3s ease-out;
+}
+body.no-touch .boxInner:hover .titleBox, body.touch .boxInner.touchFocus .titleBox {
+   margin-bottom: 0;
+}
+@media only screen and (max-width : 480px) {
+   /* Smartphone view: 1 tile */
+   .box {
+      width: 100%;
+      padding-bottom: 100%;
+   }
+}
+@media only screen and (max-width : 650px) and (min-width : 481px) {
+   /* Tablet view: 2 tiles */
+   .box {
+      width: 50%;
+      padding-bottom: 50%;
+   }
+}
+@media only screen and (max-width : 1050px) and (min-width : 651px) {
+   /* Small desktop / ipad view: 3 tiles */
+   .box {
+      width: 33.3%;
+      padding-bottom: 33.3%;
+   }
+}
+@media only screen and (max-width : 1290px) and (min-width : 1051px) {
+   /* Medium desktop: 4 tiles */
+   .box {
+      width: 25%;
+      padding-bottom: 25%;
+   }
+}
+
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(/Users/JuanPabloRodriguez/Documents/Work/LittleThings-master/assets/img/portada.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -121,6 +214,8 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
+
+
 #headerwrap h1 {
 	color:#ffffff;
 	padding-top: 10px;
@@ -132,13 +227,13 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap h4 {
 	font-weight: 400;
-	color: #ffffff
+	color: #ffffff;
 }
 
 #social {
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: #f2f2f2;
+	background-color: #fffff0;
 }
 
 #social i {
@@ -162,7 +257,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #workwrap {	
-	background: url(../img/work.jpg) no-repeat center top;
+	background: url(../img/brownie.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -183,7 +278,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #workwrap h1 {
-	color:#ffffff;
+	color:#fffff0;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
@@ -193,11 +288,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #workwrap h4 {
 	font-weight: 400;
-	color: #ffffff
+	color: #9ebbc6;
 }
 
+
 #aboutwrap {	
-	background: url(../img/about.jpg) no-repeat center top;
+	background: url(../img/portada.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -217,7 +313,38 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
+@media only screen and (max-width : 480px) {
+   /* Smartphone view: 1 tile */
+   .box {
+      width: 100%;
+      padding-bottom: 100%;
+   }
+}
+@media only screen and (max-width : 650px) and (min-width : 481px) {
+   /* Tablet view: 2 tiles */
+   .box {
+      width: 50%;
+      padding-bottom: 50%;
+   }
+}
+@media only screen and (max-width : 1050px) and (min-width : 651px) {
+   /* Small desktop / ipad view: 3 tiles */
+   .box {
+      width: 33.3%;
+      padding-bottom: 33.3%;
+   }
+}
+@media only screen and (max-width : 1290px) and (min-width : 1051px) {
+   /* Medium desktop: 4 tiles */
+   .box {
+      width: 25%;
+      padding-bottom: 25%;
+   }
+}
 
+ #container h5 {
+  color: #6e99aa;
+}
 
 
 /* Gallery */
