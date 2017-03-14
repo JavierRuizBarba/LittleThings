@@ -194,7 +194,7 @@ body.no-touch .boxInner:hover .titleBox, body.touch .boxInner.touchFocus .titleB
 }
 
 #headerwrap {
-	background: url(/Users/JuanPabloRodriguez/Documents/Work/LittleThings-master/assets/img/portada.jpg) no-repeat center top;
+	background: url(../img/portada.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -231,6 +231,7 @@ body.no-touch .boxInner:hover .titleBox, body.touch .boxInner.touchFocus .titleB
 }
 
 #social {
+
 	padding-top: 50px;
 	padding-bottom: 50px;
 	background-color: #fffff0;
@@ -256,7 +257,7 @@ body.no-touch .boxInner:hover .titleBox, body.touch .boxInner.touchFocus .titleB
 	margin-left: 10px;
 }
 
-#workwrap {	
+#workwrap {
 	background: url(../img/brownie.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
